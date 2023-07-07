@@ -1,0 +1,12 @@
+﻿Chú ý khi đi bảo vệ:
+
+- Sửa hay thêm ngày: 11/01/2019
+----> 11 là tháng : để kiểm tra tính hợp lệ so với date hiện tại
+
+//chạy lệnh sau để fix lại chức năng sendemail automatically on Git Bash
+php artisan notify:email
+
+
+
+
+<script src="//cdn.ckeditor.com/4.11.4/standard/ckeditor.js"></script>
